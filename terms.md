@@ -72,21 +72,21 @@ We’ve tried to make our terms and conditions as straightforward and fair as po
 
 24. All Bitcoin Brisbane IP will remain the property of Bitcoin Brisbane.  
 
-    Subject to clause 26 and the payment of the Fees, Bitcoin Brisbane grants to you a world-wide, non-exclusive, royalty free licence to use Bitcoin Brisbane IP for the purpose agreed to between you and Bitcoin Brisbane to the extent that it is needed by you for the enjoyment and benefit of the Services. 
+25. Subject to clause 26 and the payment of the Fees, Bitcoin Brisbane grants to you a world-wide, non-exclusive, royalty free licence to use Bitcoin Brisbane IP for the purpose agreed to between you and Bitcoin Brisbane to the extent that it is needed by you for the enjoyment and benefit of the Services. 
 
-    Bitcoin Brisbane will not licence to any third party any Bitcoin Brisbane IP created exclusively for you during the performance of the Services if so stipulated in the Proposal without your prior written consent. 
+26. Bitcoin Brisbane will not licence to any third party any Bitcoin Brisbane IP created exclusively for you during the performance of the Services if so stipulated in the Proposal without your prior written consent. 
 
-    Neither party will disclose Confidential Information of the other party to any third party without the prior written consent of the other party, unless required by Law or the rules of a relevant stock exchange. Each party will only use Confidential Information of the other party for the performance of the Services and obligations under this Agreement. 
+27. Neither party will disclose Confidential Information of the other party to any third party without the prior written consent of the other party, unless required by Law or the rules of a relevant stock exchange. Each party will only use Confidential Information of the other party for the performance of the Services and obligations under this Agreement. 
 
-    To the extent the Services are performed based on any data, materials, information, or documents provided by you, you agree to indemnify and hold harmless Bitcoin Brisbane, its officers, employees, agents and subcontractors for any claim whatsoever in relation to any loss or damage arising from unclear, erroneous, incomplete, incorrect, misleading or false data, materials, information, or documents provided by you. 
+28. To the extent the Services are performed based on any data, materials, information, or documents provided by you, you agree to indemnify and hold harmless Bitcoin Brisbane, its officers, employees, agents and subcontractors for any claim whatsoever in relation to any loss or damage arising from unclear, erroneous, incomplete, incorrect, misleading or false data, materials, information, or documents provided by you. 
 
 ## Limitation of Liability  
 
-    To the extent permitted by Law, Bitcoin Brisbane excludes all other terms, conditions, warranties and guarantees which might be implied into this Agreement. Where any Law implies any other terms, conditions, warranties and guarantees in this Agreement that cannot be modified or excluded (Implied Terms), then such Implied Terms will deem to be included. However, to the full extent permitted by Law, Bitcoin Brisbane’s liability to you for any breach of any Implied Term that cannot be excluded by Law is limited at Bitcoin Brisbane’s option to the re-performance of the Services or the refund of all or part of the Fee for the Services. 
+29. To the extent permitted by Law, Bitcoin Brisbane excludes all other terms, conditions, warranties and guarantees which might be implied into this Agreement. Where any Law implies any other terms, conditions, warranties and guarantees in this Agreement that cannot be modified or excluded (Implied Terms), then such Implied Terms will deem to be included. However, to the full extent permitted by Law, Bitcoin Brisbane’s liability to you for any breach of any Implied Term that cannot be excluded by Law is limited at Bitcoin Brisbane’s option to the re-performance of the Services or the refund of all or part of the Fee for the Services. 
 
-    You agree to release and indemnify and will continue to release and indemnify Bitcoin Brisbane, its officers, employees and agents from and against all actions, claims (actual or threatened), proceedings (including proceedings where Bitcoin Brisbane is joined pursuant to any proportionate liability regime) or demands (including any costs and expenses in defending or servicing same) which may be brought against it or them, in respect of any loss (including Indirect Loss), death, injury, illness or damage to persons or property, and whether direct or indirect and in respect of any breach of any industrial or intellectual property rights, howsoever arising out of the use of, reliance on, or benefit of the Services, except to the extent that the loss, death, injury, illness or damage to persons or property was directly caused by the negligence, wilful acts or omissions of Bitcoin Brisbane or its employees. 
+30. You agree to release and indemnify and will continue to release and indemnify Bitcoin Brisbane, its officers, employees and agents from and against all actions, claims (actual or threatened), proceedings (including proceedings where Bitcoin Brisbane is joined pursuant to any proportionate liability regime) or demands (including any costs and expenses in defending or servicing same) which may be brought against it or them, in respect of any loss (including Indirect Loss), death, injury, illness or damage to persons or property, and whether direct or indirect and in respect of any breach of any industrial or intellectual property rights, howsoever arising out of the use of, reliance on, or benefit of the Services, except to the extent that the loss, death, injury, illness or damage to persons or property was directly caused by the negligence, wilful acts or omissions of Bitcoin Brisbane or its employees. 
 
-    Notwithstanding any other provision of the Agreement, and except to the extent that liability cannot be limited or excluded by law: 
+31. Notwithstanding any other provision of the Agreement, and except to the extent that liability cannot be limited or excluded by law: 
 
     Bitcoin Brisbane will not be liable to you, your Associated Entities, or any third party for any Indirect Loss; 
 
@@ -112,15 +112,15 @@ We’ve tried to make our terms and conditions as straightforward and fair as po
 
 ## Miscellaneous  
 
-    Any provision of this Agreement that is illegal, invalid or unenforceable will be severed to the extent that it is illegal, invalid or unenforceable, with the remainder of the Agreement continuing in full force. 
+37. Any provision of this Agreement that is illegal, invalid or unenforceable will be severed to the extent that it is illegal, invalid or unenforceable, with the remainder of the Agreement continuing in full force. 
 
-    This Agreement is governed by the law of the state or territory in which the Services are provided, and each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of that place. 
+38. This Agreement is governed by the law of the state or territory in which the Services are provided, and each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of that place. 
 
-    To the extent any Personal Information is collected by Bitcoin Brisbane in the performance of the Services, Bitcoin Brisbane will collect, hold, and use that Personal Information in accordance with Bitcoin Brisbane’s Privacy Policy (available on request). 
+39. To the extent any Personal Information is collected by Bitcoin Brisbane in the performance of the Services, Bitcoin Brisbane will collect, hold, and use that Personal Information in accordance with Bitcoin Brisbane’s Privacy Policy (available on request). 
 
 ## Definitions  
 
-    In this Agreement: 
+40. In this Agreement: 
 
     Associated Entities has the meaning given to that term in section 50AAA Corporations Act 2001 (Cth). 
 
