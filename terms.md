@@ -94,23 +94,23 @@ We’ve tried to make our terms and conditions as straightforward and fair as po
 
     Bitcoin Brisbane’s cumulative liability to you, your Associated Entities, or any third party for any loss or damage to real or personal property whatsoever which arises under or in connection with this Agreement or the provision of Services, and whether by way of an indemnity or statute, in tort (for negligence or otherwise), or on any other basis in law or equity, is limited to $1 million in aggregate.  
 
-## Termination 
+## Termination
 
-    Bitcoin Brisbane may immediately suspend or terminate its obligations under this Agreement if: 
+32. Bitcoin Brisbane may immediately suspend or terminate its obligations under this Agreement if: 
 
-    monies payable by you to Bitcoin Brisbane are outstanding 60 days or more after the Due Date; or 
+    (a) monies payable by you to Bitcoin Brisbane are outstanding 60 days or more after the Due Date; or 
 
-    you have otherwise materially breached your obligations under this Agreement and failed to remedy that breach within 5 days of written notice from Bitcoin Brisbane. 
+    (b) you have otherwise materially breached your obligations under this Agreement and failed to remedy that breach within 5 days of written notice from Bitcoin Brisbane. 
 
-    Bitcoin Brisbane may terminate this Agreement for convenience by giving you 30 days written notice. 
+33. Bitcoin Brisbane may terminate this Agreement for convenience by giving you 30 days written notice. 
 
-    You may terminate your obligations under this Agreement where Bitcoin Brisbane has materially breached its obligations under this Agreement and failed to remedy that breach within 10 days of written notice from you. 
+34. You may terminate your obligations under this Agreement where Bitcoin Brisbane has materially breached its obligations under this Agreement and failed to remedy that breach within 10 days of written notice from you. 
 
-    If Bitcoin Brisbane, acting reasonably, suspects that you are insolvent or are having difficulties paying your debts as and when they become due, or you are insolvent, Bitcoin Brisbane may give written notice to you of Bitcoin Brisbane’s intention to immediately suspend or terminate its obligations under this Agreement. 
+35. If Bitcoin Brisbane, acting reasonably, suspects that you are insolvent or are having difficulties paying your debts as and when they become due, or you are insolvent, Bitcoin Brisbane may give written notice to you of Bitcoin Brisbane’s intention to immediately suspend or terminate its obligations under this Agreement. 
 
-    In the event of termination, Bitcoin Brisbane is entitled to be paid for all work performed up to the date of termination and for any unavoidable commitments entered into by Bitcoin Brisbane before the date of termination. 
+36. In the event of termination, Bitcoin Brisbane is entitled to be paid for all work performed up to the date of termination and for any unavoidable commitments entered into by Bitcoin Brisbane before the date of termination. 
 
-## Miscellaneous  
+## Miscellaneous
 
 37. Any provision of this Agreement that is illegal, invalid or unenforceable will be severed to the extent that it is illegal, invalid or unenforceable, with the remainder of the Agreement continuing in full force. 
 
@@ -118,26 +118,26 @@ We’ve tried to make our terms and conditions as straightforward and fair as po
 
 39. To the extent any Personal Information is collected by Bitcoin Brisbane in the performance of the Services, Bitcoin Brisbane will collect, hold, and use that Personal Information in accordance with Bitcoin Brisbane’s Privacy Policy (available on request). 
 
-## Definitions  
+## Definitions
 
 40. In this Agreement: 
 
-    Associated Entities has the meaning given to that term in section 50AAA Corporations Act 2001 (Cth). 
+    (a) *Associated Entities* has the meaning given to that term in section 50AAA Corporations Act 2001 (Cth). 
 
-    Bitcoin Brisbane means Bitcoin Brisbane Pty Ltd ABN 71 169 525 811. 
+    (b) *Bitcoin Brisbane* means Bitcoin Brisbane Pty Ltd ABN 71 169 525 811. 
 
     Bitcoin Brisbane IP means all intellectual property and proprietary rights (whether registered or unregistered) owned or licenced by Bitcoin Brisbane prior to performance of the Services, developed by Bitcoin Brisbane in performance of the Services, or developed by Bitcoin Brisbane outside of, or after, performance of the Services, and without limitation includes business names, trade or service marks, any right to have information (including Confidential Information) kept confidential, patents, patent applications, drawings, discoveries, inventions, improvements, trade secrets, technical data, formulae, databases, know-how, logos, designs, design rights, copyright and similar industrial or intellectual property rights. 
 
-    Confidential Information means all information in relation to a disclosing party, its business, operations, products, processes, customers, suppliers or contractors which is or might reasonably be considered by the disclosing party to be confidential, including all technical data, intellectual property rights, formulae, specifications, diagrams, plans, drawings, sketches, designs, business plans and reports, business methods and systems, business records, production information, unpublished financial accounts and reports, discount and supply agreements, subcontractor lists, customer lists, except to the extent that such information is lawfully in the public domain. 
+    (c) Confidential Information means all information in relation to a disclosing party, its business, operations, products, processes, customers, suppliers or contractors which is or might reasonably be considered by the disclosing party to be confidential, including all technical data, intellectual property rights, formulae, specifications, diagrams, plans, drawings, sketches, designs, business plans and reports, business methods and systems, business records, production information, unpublished financial accounts and reports, discount and supply agreements, subcontractor lists, customer lists, except to the extent that such information is lawfully in the public domain. 
 
-    Fees means the fees payable by you to Bitcoin Brisbane as outlined in the Proposal for the Services. 
+    (d) Fees means the fees payable by you to Bitcoin Brisbane as outlined in the Proposal for the Services. 
 
-    Indirect Loss means losses which do not arise naturally (that is, according to the usual course of things) from the relevant breach of this Agreement, including but not limited to loss of profits or revenue, loss of goodwill or reputation, loss of anticipated benefits or savings, loss of any prospect or business opportunity, loss of production or other business interruption loss or corruption of data or wasted management or administrative time.   
+    (e) Indirect Loss means losses which do not arise naturally (that is, according to the usual course of things) from the relevant breach of this Agreement, including but not limited to loss of profits or revenue, loss of goodwill or reputation, loss of anticipated benefits or savings, loss of any prospect or business opportunity, loss of production or other business interruption loss or corruption of data or wasted management or administrative time.   
 
-    Initial Deposit means the amount specified in the Proposal. 
+    (f) Initial Deposit means the amount specified in the Proposal. 
 
-    Law means any Commonwealth, State, Territory or local government legislation in force in Australia or any law of a foreign jurisdiction applicable to the Services, including regulations, by-laws, declarations, ministerial directions and other subordinate legislation; common law; and government agency requirement or authorisation (including conditions in respect of any authorisation). 
+    (g) Law means any Commonwealth, State, Territory or local government legislation in force in Australia or any law of a foreign jurisdiction applicable to the Services, including regulations, by-laws, declarations, ministerial directions and other subordinate legislation; common law; and government agency requirement or authorisation (including conditions in respect of any authorisation). 
 
-    Personal Information has the meaning given to that term in section 6 Privacy Act 1988 (Cth). 
+    (h) *Personal Information* has the meaning given to that term in section 6 Privacy Act 1988 (Cth). 
 
-    Services means the services described in the Proposal. 
+    (j) *Services* means the services described in the Proposal.
