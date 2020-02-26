@@ -1,7 +1,7 @@
 # Projects
 
 ## Get Paid In Bitcoin Pty Ltd
-
+https://www.getpaidinbitcoin.com.au is a simple bitcoin exchange for sending wages as cryptocurrency.  The solution exisists of Azure, ASP.Net MVC, .net core web api, react and custom bitcoin wallet software.
 
 ## Skrilla Token
 
