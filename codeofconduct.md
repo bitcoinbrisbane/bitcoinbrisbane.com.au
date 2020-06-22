@@ -1,6 +1,6 @@
 # Purposse
 
-Bitcoin Brisbane Meetup aims to be an inclusive by-the-community for the-community conference. We are dedicated to provide an accepting environment that provides space for making friends and earning knowledge regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or lack thereof. Harassment of conference attendees, speakers, sponsors and any others will not be tolerated at DevCon. Conference participants violating these rules may be sanctioned or expelled from the conference.
+Bitcoin Brisbane Meetup aims to be an inclusive by-the-community for the-community conference. We are dedicated to provide an accepting environment that provides space for making friends and earning knowledge regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or lack thereof. Harassment of event attendees, speakers, sponsors and any others will not be tolerated. Event participants violating these rules may be sanctioned or expelled from the meetup group.
 
 ## Unacceptable Behavior
 
