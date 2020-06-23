@@ -17,5 +17,6 @@ Our events are safe environments for the expression of personal work and ideas. 
 Participants violating these rules will be sanctioned or expelled from the event without a refund at the discretion of the organisers.  
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action.  
-‍
+
+
 /--- End copy ---/
