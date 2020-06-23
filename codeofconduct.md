@@ -1,33 +1,21 @@
-# Purpose
+/--- Start copy ---/
 
-Bitcoin Brisbane Meetup aims to be an inclusive by-the-community for the-community conference. We are dedicated to provide an accepting environment that provides space for making friends and earning knowledge regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or lack thereof. Harassment of event attendees, speakers, sponsors and any others will not be tolerated. Event participants violating these rules may be sanctioned or expelled from the meetup group.
+## Scope
 
-## Unacceptable Behavior
+All attendees, speakers, sponsors and volunteers at our event are required to comply with the following code of conduct. If you do not wish to comply, you are not permitted to attend our events.
 
-To maintain an accepting environment, Bitcoin Brisbane condemns the following (but not limited to) unacceptable:
+## Code of Conduct
 
-* Offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age & religion.
-* Sexual references/imagery in public spaces.
-* Deliberate intimidation, stalking, or following.
-* Harassing photography or recording.
-* Sustained disruption of talks or other events.
-* Inappropriate physical contact.
-* Invasion of personal space.
-* Unwelcome sexual attention.
-* Advocating for or encouraging, any of the above behavior.
+Be excellent to each other.
 
-## Enforcement
+The goal is to provide a harassment-free experience for everyone.
 
-If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please follow these steps:
+Language or imagery which belittles individuals based on personal characteristics protected under the Australian Human Rights Commission Act 1986 is prohibited. 
 
-1. Let the person know that what they did is unacceptable and ask them to stop.
-2. That person should immediately stop the behavior.
-3. If that person doesn’t comply, please contact "admin" as soon as possible.
-4. Bitcoin Brisbane "admins" will attempt to ensure your safety and maintain desired privacy.
-5. Bitcoin Brisbane "admins" will take immediate actions against Code of Conduct violators.
+Our events are safe environments for the expression of personal work and ideas. Participants are required to provide feedback in a positive manner. Ridicule, bullying or personal embarrassment will not be tolerated. 
 
-## Reporting
+Participants violating these rules will be sanctioned or expelled from the event without a refund at the discretion of the organisers.  
 
-If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please follow these steps:
-
-Email: hello@bitcoinbrisbane.com.au
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action.
+‍
+/--- End copy ---/
