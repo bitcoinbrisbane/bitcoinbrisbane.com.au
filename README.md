@@ -9,6 +9,9 @@ https://github.com/bitcoinbrisbane/bitcoinbrisbane.com.au/blob/master/assets/doc
 `Sha256: ffc11ffa978a2187fbb6cb41b2040cb20783c26734902975b75fff58307b59ab`
 
 ## PGP Public Key
+
+PGP Public Key for lucas@bitcoinbrisbane.com.au or https://keys.openpgp.org/vks/v1/by-fingerprint/F68AA906B5BE601AC49EF83DC61F975DEBDEDC6B
+
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
