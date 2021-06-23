@@ -32,7 +32,15 @@
     <link href="./assets/lib/remodal/remodal-default-theme.css" rel="stylesheet">
     <link href="./assets/css/theme.css" rel="stylesheet">
 
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.5/lightgallery.min.js" integrity="sha512-LVXbm4jqx7snYIpJtUGYhHn0ig+ANxrWlUGmqKV+/m0YdyhppmShjpnrLitNMSGOqOl/QQFSn4KxQipJHXDwUA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.5/lightgallery.min.js" integrity="sha512-LVXbm4jqx7snYIpJtUGYhHn0ig+ANxrWlUGmqKV+/m0YdyhppmShjpnrLitNMSGOqOl/QQFSn4KxQipJHXDwUA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.1.5/plugins/thumbnail/lg-thumbnail.min.js" integrity="sha512-XEGFG2kygidgOaF/4aeQn0J9Uk54gcocVOPSvHy8W/tHsmXdjCEkf/219jsh3q4j4mK/P24kvM30rHxzZBwcHQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script type="text/javascript">
+      lightGallery(document.getElementById('lightgallery'), {
+          plugins: [lgZoom, lgThumbnail],
+          speed: 500
+      });
+    </script> -->
   </head>
 
   <body>
@@ -119,6 +127,14 @@
                 <h3 class="fs-md-5" data-zanim-xs='{"duration":"1.5","delay":0}'>recent meetups</h3>
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'>June 2021, Taproot</p>
               </div>
+              <!-- <div id="lightgallery">
+                <a href="images/meetup/taproot1.jpg" data-lg-size="1600-2400">
+                    <img alt=".." src="images/meetup/taproot1.jpg" />
+                </a>
+                <a href="images/meetup/taproot2.jpg" data-lg-size="1024-800">
+                    <img alt=".." src="images/meetup/taproot2.jpg" />
+                </a>
+              </div> -->
               <div class="overflow-hidden">
                 <hr class="hr-short border-black" data-zanim-xs='{"duration":"1.5","delay":0.2}'/>
               </div>
