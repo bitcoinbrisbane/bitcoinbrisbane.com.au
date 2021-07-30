@@ -7,7 +7,7 @@ ETH Account for 2020 Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`
 BCH Address for 2020 Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
 To pay with crypto https://commerce.coinbase.com/checkout/061f984d-f7ef-4416-a5ca-62ec15fb515f
 
-## Sponsoship Packages
+## Sponsorship Packages
 
 ## Sponsors
 
