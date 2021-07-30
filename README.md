@@ -11,6 +11,7 @@ To pay with crypto https://commerce.coinbase.com/checkout/061f984d-f7ef-4416-a5c
 
 | Ethereum Package | Bitcoin Package | Dogecoin Package |
 |---|---|---|
+| $300 | $500 | $1,000 
 
 ## Sponsors
 
