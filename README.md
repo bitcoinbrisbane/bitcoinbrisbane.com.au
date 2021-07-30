@@ -7,10 +7,12 @@ ETH Account for 2020 Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`
 BCH Address for 2020 Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
 To pay with crypto https://commerce.coinbase.com/checkout/061f984d-f7ef-4416-a5ca-62ec15fb515f
 
-## T&Cs
-https://github.com/bitcoinbrisbane/bitcoinbrisbane.com.au/blob/master/assets/docs/BTCBNE%20Terms%20and%20Conditions%20-%20FINAL%2023.1.2019.pdf 
+## Sponsoship Packages
 
-`Sha256: ffc11ffa978a2187fbb6cb41b2040cb20783c26734902975b75fff58307b59ab`
+## Sponsors
+
+## Meetup code of conduct
+
 
 ## PGP Public Key
 
