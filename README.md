@@ -15,8 +15,9 @@ To pay with crypto https://commerce.coinbase.com/checkout/061f984d-f7ef-4416-a5c
 
 ## Sponsors
 
-## Meetup code of conduct
+## Meetup code of conduct  
 
+https://github.com/bitcoinbrisbane/bitcoinbrisbane.com.au/blob/master/codeofconduct.md
 
 ## PGP Public Key
 
