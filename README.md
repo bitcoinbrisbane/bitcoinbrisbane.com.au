@@ -3,9 +3,13 @@ Website for https://bitcoinbrisbane.com.au
 
 ## Sponsorship Packages
 
+Individual events can be sponsored
+
 | Ethereum Package | Bitcoin Package | Dogecoin Package |
 |---|---|---|
-| $300 | $500 | $1,000 
+| $300 | $500 | $1,000 |
+
+Sponsorship packages are including GST and funds are directly contributed towards the events, in the form of catering and door prizes.
 
 ## Sponsors
 
