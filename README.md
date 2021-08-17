@@ -17,19 +17,16 @@ All attendees, speakers, sponsors and volunteers at our event are required to co
 
 ### Code of Conduct
 
-Be excellent to each other.
-
-The goal is to provide a harassment-free experience for everyone.
-
-Language or imagery which belittles individuals based on personal characteristics protected under the Australian Human Rights Commission Act 1986 is prohibited. 
-
-Our events are safe environments for the expression of personal work and ideas. Participants are required to provide feedback in a positive manner. Ridicule, bullying or personal embarrassment will not be tolerated. 
-
-Participants violating these rules will be sanctioned or expelled from the event without a refund at the discretion of the organisers.  
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action. 
+* Be excellent to each other.
+* The goal is to provide a harassment-free experience for everyone.
+* Language or imagery which belittles individuals based on personal characteristics protected under the Australian Human Rights Commission Act 1986 is prohibited.
+* Our events are safe environments for the expression of personal work and ideas. Participants are required to provide feedback in a positive manner. Ridicule, bullying or personal embarrassment will not be tolerated. 
+* Participants violating these rules will be sanctioned or expelled from the event without a refund at the discretion of the organisers.  
+* If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action. 
 
 ## Tip Jars
+
+Should you wish to tip in crypto, all donations will be put towards the bar tab.
 
 Bitcoin Address for 2019 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
 Bitcoin Address for 2020 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
