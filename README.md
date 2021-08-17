@@ -1,12 +1,6 @@
 # bitcoinbrisbane.com.au
 Website for https://bitcoinbrisbane.com.au
 
-Bitcoin Address for 2019 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
-Bitcoin Address for 2020 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
-Bitcoin Address for 2021 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
-ETH Account for 2020 Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`  
-BCH Address for 2020 Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
-
 ## Sponsorship Packages
 
 | Ethereum Package | Bitcoin Package | Dogecoin Package |
@@ -33,7 +27,16 @@ Our events are safe environments for the expression of personal work and ideas. 
 
 Participants violating these rules will be sanctioned or expelled from the event without a refund at the discretion of the organisers.  
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action.  
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action. 
+
+## Tip Jars
+
+Bitcoin Address for 2019 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
+Bitcoin Address for 2020 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
+Bitcoin Address for 2021 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
+ETH Account for 2020 Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`  
+BCH Address for 2020 Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
+
 
 ## PGP Public Key
 
