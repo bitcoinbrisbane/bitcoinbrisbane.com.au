@@ -1,17 +1,16 @@
 # bitcoinbrisbane.com.au
 Website for https://bitcoinbrisbane.com.au
 
-Bitcoin Address for 2019 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
-Bitcoin Address for 2020 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
-Bitcoin Address for 2021 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
-ETH Account for 2020 Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`  
-BCH Address for 2020 Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
+## Event Sponsorship Packages
 
-## Sponsorship Packages
+Individual events can be sponsored.  All sponsors will be included on the Bitcoin Brisbane website and meetup pages.
 
 | Ethereum Package | Bitcoin Package | Dogecoin Package |
 |---|---|---|
-| $300 | $500 | $1,000 
+| $300 | $500 | $1,000 |
+
+
+* Sponsorship packages are including GST and funds are directly contributed towards the events, in the form of catering and door prizes. * 
 
 ## Sponsors
 
@@ -23,17 +22,23 @@ All attendees, speakers, sponsors and volunteers at our event are required to co
 
 ### Code of Conduct
 
-Be excellent to each other.
+* Be excellent to each other.
+* The goal is to provide a harassment-free experience for everyone.
+* Language or imagery which belittles individuals based on personal characteristics protected under the Australian Human Rights Commission Act 1986 is prohibited.
+* Our events are safe environments for the expression of personal work and ideas. Participants are required to provide feedback in a positive manner. Ridicule, bullying or personal embarrassment will not be tolerated. 
+* Participants violating these rules will be sanctioned or expelled from the event without a refund at the discretion of the organisers.  
+* If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action. 
 
-The goal is to provide a harassment-free experience for everyone.
+## Tip Jars
 
-Language or imagery which belittles individuals based on personal characteristics protected under the Australian Human Rights Commission Act 1986 is prohibited. 
+Should you wish to tip in crypto, all donations will be put towards the bar tab.
 
-Our events are safe environments for the expression of personal work and ideas. Participants are required to provide feedback in a positive manner. Ridicule, bullying or personal embarrassment will not be tolerated. 
+Bitcoin Address for 2019 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
+Bitcoin Address for 2020 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
+Bitcoin Address for 2021 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
+ETH Account for 2020 Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`  
+BCH Address for 2020 Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
 
-Participants violating these rules will be sanctioned or expelled from the event without a refund at the discretion of the organisers.  
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the events organisers. We will treat your claim seriously, and take immediate action.  
 
 ## PGP Public Key
 
