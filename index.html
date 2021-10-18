@@ -2,9 +2,9 @@
 <html lang="en-US" dir="ltr">
 
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <!-- ===============================================-->
     <!-- Document Title-->
@@ -14,23 +14,24 @@
     <!-- ===============================================-->
     <!-- Favicons-->
     <!-- ===============================================-->
-    <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicons/favicon-16x16.png">
-    <link rel="shortcut icon" type="image/x-icon" href="./assets/img/favicons/favicon.ico">
-    <link rel="manifest" href="./assets/img/favicons/manifest.json">
-    <meta name="msapplication-TileImage" content="./assets/img/favicons/mstile-150x150.png">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/favicons/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicons/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicons/favicon-16x16.png"/>
+    <link rel="shortcut icon" type="image/x-icon" href="./assets/img/favicons/favicon.ico"/>
+    <link rel="manifest" href="./assets/img/favicons/manifest.json"/>
+    <meta name="msapplication-TileImage" content="./assets/img/favicons/mstile-150x150.png"/>
+    <meta name="theme-color" content="#ffffff"/>
 
     <!-- ===============================================-->
     <!-- Stylesheets-->
     <!-- ===============================================-->
-    <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,700&amp;#x7c;Trirong:200,200i,300,300i,400,400i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&amp;#x7c" rel="stylesheet">
-    <link href="./assets/lib/owl.carousel/owl.carousel.css" rel="stylesheet">
-    <link href="./assets/lib/remodal/remodal.css" rel="stylesheet">
-    <link href="./assets/lib/remodal/remodal-default-theme.css" rel="stylesheet">
-    <link href="./assets/css/theme.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,700&amp;#x7c;Trirong:200,200i,300,300i,400,400i" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&amp;#x7c" rel="stylesheet"/>
+    <link href="./assets/lib/owl.carousel/owl.carousel.css" rel="stylesheet"/>
+    <link href="./assets/lib/remodal/remodal.css" rel="stylesheet"/>
+    <link href="./assets/lib/remodal/remodal-default-theme.css" rel="stylesheet"/>
+    <link href="./assets/css/theme.css" rel="stylesheet"/>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   </head>
 
   <body>
@@ -134,7 +135,19 @@
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'></p>
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'>You can RSVP to up coming events at <a href="https://www.meetup.com/bitcoinbrisbane/">meetup.com/bitcoinbrisbane</a></p>
               </div>
-              <div class="owl-carousel owl-carousel-theme owl-theme owl-dots-inner" data-options='{"margin":30,"nav":true,"autoplay":true,"loop":true,"dots":false,"items":1}'>
+              <div id="meetup-photos" class="owl-carousel owl-carousel-theme owl-theme owl-dots-inner" data-options='{"margin":30,"nav":true,"autoplay":true,"loop":true,"dots":false,"items":1}'>
+                
+                <script>
+                  $.getJSON("https://cms.dltx.io/bitcoin-brisbane-images", function( data ) {
+                    console.log(data);
+
+                    $.each(data[0].images, function(key, val) {
+                      $("#meetup-photos").append("<img class='rounded' src='https://cms.dltx.io" + val.formats.medium.url + "' alt=''><img/>");
+                    });
+                  });
+                </script>
+                
+              
                 <img class="rounded" src="images/meetup/rocketpool-1.jpg" alt="Rocket Pool 2021"/>
                 <img class="rounded" src="images/meetup/rocketpool-2.jpg" alt="Rocket Pool 2021"/>
                 <img class="rounded" src="images/meetup/rocketpool-3.jpg" alt="Rocket Pool 2021"/>
@@ -146,6 +159,7 @@
               </div>
               <div class="overflow-hidden">
                 <hr class="hr-short border-black" data-zanim-xs='{"duration":"1.5","delay":0.2}'/>
+
                 <br/>
 
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'>June 2021, Taproot is here?</p>
