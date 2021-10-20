@@ -109,7 +109,7 @@
               <div class="overflow-hidden">
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'>bitcoin brisbane was founded in 2014 after starting the
                   <a href="https://meetup.com/bitcoinbrisbane">brisbane bitcoin meetups</a>
-                in March, 2013. we deliver consulations and education on bitcoin and other crypto currencies.  
+                in March, 2013. we deliver consulations and education on bitcoin and other crypto currencies.
                 Should you like to learn more, you can <a href="https://outlook.office365.com/owa/calendar/BitcoinBrisbane@bitcoinbrisbane.com.au/bookings/">book a 1 on 1 consultation.</a>
                 </p>
               </div>
@@ -136,18 +136,20 @@
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'>You can RSVP to up coming events at <a href="https://www.meetup.com/bitcoinbrisbane/">meetup.com/bitcoinbrisbane</a></p>
               </div>
               <div id="meetup-photos" class="owl-carousel owl-carousel-theme owl-theme owl-dots-inner" data-options='{"margin":30,"nav":true,"autoplay":true,"loop":true,"dots":false,"items":1}'>
-                
-                <script>
-                  $.getJSON("https://cms.dltx.io/bitcoin-brisbane-images", function( data ) {
-                    console.log(data);
 
-                    $.each(data[0].images, function(key, val) {
-                      $("#meetup-photos").append("<img class='rounded' src='https://cms.dltx.io" + val.formats.medium.url + "' alt=''><img/>");
+                <script>
+                  $(document).ready(function() {
+                    $(".rounded").getJSON("https://cms.dltx.io/bitcoin-brisbane-images", function( data ) {
+                      console.log(data);
+
+                      $.each(data[0].images, function(key, val) {
+                        $("#meetup-photos").append("<img class='rounded' src='https://cms.dltx.io" + val.formats.medium.url + "' alt=''><img/>");
+                      });
                     });
                   });
                 </script>
-                
-              
+
+
                 <img class="rounded" src="images/meetup/rocketpool-1.jpg" alt="Rocket Pool 2021"/>
                 <img class="rounded" src="images/meetup/rocketpool-2.jpg" alt="Rocket Pool 2021"/>
                 <img class="rounded" src="images/meetup/rocketpool-3.jpg" alt="Rocket Pool 2021"/>
@@ -401,11 +403,11 @@
                       <p class="mb-1 text-700"><strong>Master Node</strong></p>
                       <p class="mb-0 text-600">Twitter: @bitcoinbrisbane https://twitter.com/BitcoinBrisbane</p>
                       <p class="mb-0 text-600">Level 1, 33 Queen St Brisbane</p>
-                      <p class="mb-0 text-600">PO Box 12529 George St, Brisbane QLD 4003</p> 
+                      <p class="mb-0 text-600">PO Box 12529 George St, Brisbane QLD 4003</p>
                       <p class="mb-0 text-600"><a class="text-600" href="mailto:lucas@bitcoinbrisbane.com.au">lucas@bitcoinbrisbane.com.au</a></p>
                       <p class="mb-0 text-600"><a class="text-600" href="https://keys.openpgp.org/vks/v1/by-fingerprint/F68AA906B5BE601AC49EF83DC61F975DEBDEDC6B">PGP Key</a></p>
                       <p class="mb-0 text-600">ABN: 71169525811</p>
-                      
+
                     </div>
                   </div>
                 </div>
