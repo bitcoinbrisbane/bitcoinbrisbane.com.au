@@ -2,6 +2,7 @@
 Website for https://bitcoinbrisbane.com.au
 
 ## Event Sponsorship Packages
+For the Bitcoin Brisbane Meetup https://www.meetup.com/bitcoinbrisbane
 
 Individual events can be sponsored.  All sponsors will be included on the Bitcoin Brisbane website and meetup pages.
 
