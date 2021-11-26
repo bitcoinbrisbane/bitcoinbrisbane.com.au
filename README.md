@@ -37,9 +37,8 @@ Should you wish to tip in crypto, all donations will be put towards the bar tab.
 Bitcoin Address for 2019 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
 Bitcoin Address for 2020 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
 Bitcoin Address for 2021 Xmas Party: `1Z2ibT1BLP9DiNx3vXBPv4i2w5T1CVy2o`  
-ETH Account for 2020 Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`  
-BCH Address for 2020 Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
-
+ETH, USDC & USDC Account for Xmas Party: `0x0097f8f1502b12e1d29b2f0c59c47808b0387519`  
+BCH Address for Xmas Party: `qqrqa05plszgutqsplmmzp5tyl6ger6lvuvr38v8w9`  
 
 ## PGP Public Key
 
