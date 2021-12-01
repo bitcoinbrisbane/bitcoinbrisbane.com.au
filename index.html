@@ -27,11 +27,14 @@
     <!-- ===============================================-->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,700&amp;#x7c;Trirong:200,200i,300,300i,400,400i" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&amp;#x7c" rel="stylesheet"/>
-    <link href="./assets/lib/owl.carousel/owl.carousel.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="./assets/lib/owl.carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="./assets/lib/owl.carousel/owl.theme.default.min.css">
     <link href="./assets/lib/remodal/remodal.css" rel="stylesheet"/>
     <link href="./assets/lib/remodal/remodal-default-theme.css" rel="stylesheet"/>
     <link href="./assets/css/theme.css" rel="stylesheet"/>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="./assets/lib/owl.carousel/owl.carousel.js"></script>
+
   </head>
 
   <body>
@@ -135,19 +138,7 @@
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'></p>
                 <p class="fs--1 text-uppercase text-black ls-0 mb-0" data-zanim-xs='{"duration":"1.5","delay":0.1}'>You can RSVP to up coming events at <a href="https://www.meetup.com/bitcoinbrisbane/">meetup.com/bitcoinbrisbane</a></p>
               </div>
-              <div id="meetup-photos" class="owl-carousel owl-carousel-theme owl-theme owl-dots-inner" data-options='{"margin":30,"nav":true,"autoplay":true,"loop":true,"dots":false,"items":1}'>
-
-                <script>
-                  $(document).ready(function() {
-                    $(".rounded").getJSON("https://cms.dltx.io/bitcoin-brisbane-images", function( data ) {
-                      console.log(data);
-
-                      $.each(data[0].images, function(key, val) {
-                        $("#meetup-photos").append("<img class='rounded' src='https://cms.dltx.io" + val.formats.medium.url + "' alt=''><img/>");
-                      });
-                    });
-                  });
-                </script>
+              <div class="owl-carousel">
               </div>
               <div class="overflow-hidden">
                 <hr class="hr-short border-black" data-zanim-xs='{"duration":"1.5","delay":0.2}'/>
@@ -427,7 +418,7 @@
 
     <a class="btn-back-to-top" href="#top" data-fancyscroll="data-fancyscroll"><img src="./assets/img/line-icons/upload-arrow.svg" width="8" alt=""></a>
 
-    <script src="./assets/js/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="./assets/js/popper.min.js"></script>
     <script src="./assets/js/bootstrap.js"></script>
     <script src="./assets/js/plugins.js"></script>
@@ -443,6 +434,23 @@
     <script src="./assets/lib/typed.js/typed.js"></script>
     <script src="./assets/js/theme.js"></script>
 
-  </body>
+
+  <script>
+    $().ready(() =>  { 
+      $.getJSON("https://cms.dltx.io/bitcoin-brisbane-images",data => {
+        $.each(data[0].images, (key, val) => {
+          const src = `https://cms.dltx.io${val.formats.medium.url}`;
+
+          $('.owl-carousel')
+          .trigger('add.owl.carousel', ['<img src=' + src + ' />']) 
+        });
+        $('.owl-carousel').trigger('refresh.owl.carousel');
+      });
+      $(".owl-carousel").owlCarousel();
+    });
+    
+  </script>
+
+</body>
 
 </html>
