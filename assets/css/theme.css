@@ -13959,6 +13959,11 @@ label {
   cursor: pointer;
 }
 
+.owl-nav span{
+  font-size: 3rem;
+  margin: auto 2rem;
+}
+
 .owl-theme .owl-nav [class*=owl-] {
   opacity: 0.5;
   position: absolute;
@@ -14078,6 +14083,7 @@ label {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  align-items: center;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
