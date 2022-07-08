@@ -1,1 +1,71 @@
+==================================================================
+https://keybase.io/bitcoinbrisbane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bitcoinbrisbane.com.au
+  * I am bitcoinbrisbane (https://keybase.io/bitcoinbrisbane) on keybase.
+  * I have a public key with fingerprint F68A A906 B5BE 601A C49E  F83D C61F 975D EBDE DC6B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010121ae924aeb13a1ffabcc7a179e82ed3837e2c22b3669454b55e862c95e1683120a",
+      "fingerprint": "f68aa906b5be601ac49ef83dc61f975debdedc6b",
+      "host": "keybase.io",
+      "key_id": "c61f975debdedc6b",
+      "kid": "010121ae924aeb13a1ffabcc7a179e82ed3837e2c22b3669454b55e862c95e1683120a",
+      "uid": "00bd740d26a5081b2aa165f3948a1b19",
+      "username": "bitcoinbrisbane"
+    },
+    "service": {
+      "hostname": "bitcoinbrisbane.com.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1657239827,
+  "expire_in": 157680000,
+  "prev": "e3923c7500a7c2b5ebe37f8c396c64f611c3bc92c455d38759355be5541afafd",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkmtsFFUUx2f7kLC2iPhi20jdgWhaljJ33rO4YiEaXsYEgWSLzfbemTvt2HZm
+OzMtXRoUy5e2gQqVRBJiwVqjJRq2BQKYWKiWilppwtawDbANCYE0xIA1aRqpxTso
+3/jop5tz7v/87v+ce/bnZ1N+33DRJxV3MtdqfL9MIgr9mAg008jSEnS4ma7BDw9c
+q2HHjdUYGh2mGcAAFkCssDzECHAQ6DpEqipBIClYZrHGyZyEWZVlESeKCi/wSBCw
+LLKqImAgyhxgGUiHaN0wq7Adtw3TJVhdlCFUGBEJCIsMgCqvYF3mNFUEuiIJGkYa
+JgEihdWW41UQcwg6uNSwSI4EsYf2HqP/n303/ItjkCbxjMaKUGBkgFgIgSjonMLL
+ECCgeEIH2yasw0SNDFe1DBPZhoOgieldIZpcNhoq9ubrNfR4Yalq1ZXCBgKL25Zr
+qVYt0VS7btwJeww3EfeKdmAU+w8XQ4apkcGSikZsO4Zl0mFAlKpreHxiUWI5RWal
+EI2b4oaNY4anECRRZhjGYLyHcCNhYk5hOVUSGAZKKosEjDAn6bLKKaIq8roIgMoh
+VWFVXhDI5CRB4QTydYLAA6hDXaO9DutNiw7LxCesIkjHqDKh22CT9v1tvhM5lM9P
+vfh8MGe6vfeJUwOVBUNdM5FHy5ib5W0i5Z+/8FEm8GEe9euFz57eWNNhngTJWbv7
+Qip55oacSb98drzo08t2zsjFgdrZWE9ed17vnVXHUnbqlvb2MWoya3fzkp+3Haei
+YtmDQ9q5v0N16+fk6YrXR0Yu7QUbtn6xYOfEYPe+D54Nry+vjya7p1ZHln27Br+R
+6evvvBeMzqs8erQvEWldnBkMJyN//LD5VMbf+9KuzbPnxutnS97quL3s1T0H2/tk
+ae5I8t75+z1zJZcWh7Mq5buFdxOG8OVWqQWfXFc+udLnTFRfHn2vI3rmuZXX5555
+l1p1e0fgQKDsQdHg0Ef5rdeu7FkrLRmNNmanPo7/NnD46vHzZ/ntK+ZfWf7C4M01
+vabVOvN+5zCQy66XzORuPHLw1qJQaSZr/zcXW+cdXsgc+vzrFdmB4uS28kUDhW3r
++qNbdt58revEU1TBWMvY9qbx4q5XetrW3kiP/V48nH4yf6h9evLPlqmmWLB/dN93
+q3eH3uwaj3SWXM1NF3yfGkp3Lp/4qmJTx6bTU38t/el08n5wS+GCvvbg3neMfwA=
+=kQUT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bitcoinbrisbane
+
+==================================================================
 
