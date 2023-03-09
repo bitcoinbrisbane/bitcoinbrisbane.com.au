@@ -4,16 +4,17 @@ Website for https://bitcoinbrisbane.com.au
 ## Event Sponsorship Packages
 For the Bitcoin Brisbane Meetup https://www.meetup.com/bitcoinbrisbane
 
-Individual events can be sponsored.  All sponsors will be included on the Bitcoin Brisbane website and meetup pages.
+Individual events can be sponsored.  All sponsors will be included on the Bitcoin Brisbane website and meetup pages.  Sponsorship packages are including GST and funds are directly contributed towards the events, in the form of catering and door prizes.
 
 | Ethereum Package | Bitcoin Package | Dogecoin Package |
 |---|---|---|
 | $300 | $500 | $1,000 |
 
+## Sponsors and previous sponsors
 
-* Sponsorship packages are including GST and funds are directly contributed towards the events, in the form of catering and door prizes. * 
-
-## Sponsors
+* Blockchain Australia
+* Swyftx
+* Independent Reserve
 
 ## Meetup code of conduct  
 
